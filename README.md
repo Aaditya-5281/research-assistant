@@ -71,16 +71,6 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-## Project Structure
-
-```
-research-assistant/
-├── app.py              # Main Streamlit application
-├── requirements.txt    # Project dependencies
-├── utils/             # Utility functions
-├── models/            # AI models and processing logic
-└── data/              # Data storage directory
-```
 
 ## Common Issues and Solutions
 
