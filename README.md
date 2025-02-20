@@ -50,6 +50,15 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Set up environment variables:
+
+Create a `.env` file in the project root directory and add the necessary environment variables:
+
+```env
+GOOGLE_API_KEY= your_api_key_here
+GOOGLE_SEARCH_ENGINE_ID= your_api_key_here
+```
+
 ### Run the application:
 
 ```bash
