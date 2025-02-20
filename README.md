@@ -121,10 +121,4 @@ If Streamlit fails to launch:
 2. Create a new branch for your feature
 3. Submit a pull request
 
-## License
 
-[Add your license information here]
-
-## Contact
-
-[Add your contact information here]
