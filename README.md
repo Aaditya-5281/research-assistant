@@ -21,6 +21,11 @@ A Streamlit-based application for automating literature review processes and res
 - pip (Python package installer)
 - Virtual environment management tool
 
+
+## Project Architecture
+
+![Research Assistant](images/Research Assistant.jpg)
+
 ## Quick Start Guide
 
 ### Clone the repository:
