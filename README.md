@@ -24,7 +24,8 @@ A Streamlit-based application for automating literature review processes and res
 
 ## Project Architecture
 
-![Research Assistant](images/Research Assistant.jpg)
+![Research Assistant](images/Research-Assistant.jpg)
+
 
 ## Quick Start Guide
 
